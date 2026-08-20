@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhazeeq99-web.github.io/sitemap.xml
